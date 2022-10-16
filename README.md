@@ -1,2 +1,2 @@
 # AAIX-minigame
-A dialogue based minigame developed in scratch.
+## A dialogue based minigame developed in scratch.
